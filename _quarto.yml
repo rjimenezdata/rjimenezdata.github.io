@@ -8,14 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: Ruben Jimenez
-      - href: projects.qmd
-        text: Projects
+      - about.qmd
+      - projects.qmd
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: lux
+      dark: lux
     css: styles.css
     toc: true
 
