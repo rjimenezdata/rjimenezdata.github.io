@@ -6,4 +6,4 @@ My name is **Ruben Jimenez (he/him/his)**, and I am a Statistics undergraduate a
 
 - 📍 San Diego/San Luis Obispo
 
-- ✍🏻 NFL Football, League of Legends, High Fashion
+- ✍🏻 NFL Football, League of Legends
