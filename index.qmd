@@ -1,7 +1,17 @@
 ---
-title: "Home"
+title: "Ruben Jimenez"
+image: january6mockup.png
+about:
+  template: jolla
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/rjimenezanalytics/
+    - text: GitHub
+      href: https://github.com/rjimenezdata
+    - text: Email
+      href: mailto:rjimenezanalytics@outlook.com
 ---
 
-Hi!
+Hey!
 
-Welcome to my site! Make yourself comfortable and allow me to introduce both [myself](about.qmd) and my [projects](projects.qmd)!
+Welcome to my domain! Make yourself comfortable and allow me to introduce both [myself](about.qmd) and my [projects](projects.qmd)! Feel free to connect with me via LinkedIn, GitHub, or email!

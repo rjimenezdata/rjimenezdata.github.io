@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -62,7 +63,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -100,25 +101,54 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#currently" id="toc-currently" class="nav-link active" data-scroll-target="#currently">🔭 Currently…</a></li>
+  <li><a href="#interests" id="toc-interests" class="nav-link" data-scroll-target="#interests">✍ Interests…</a></li>
+  <li><a href="#locations" id="toc-locations" class="nav-link" data-scroll-target="#locations">📍 Locations…</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<div class="quarto-about-jolla">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">About</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header><main class="content" id="quarto-document-content">
+  
+
+</header>
+
 <p>My name is <strong>Ruben Jimenez (he/him/his)</strong>, and I am a Statistics undergraduate at Cal Poly. I take great interest in mathematics, statistics, and economics, and the real-world implications behind modeling and data visualization. Come with me as I figure out how to apply my specialized knowledge to personal interests and projects.</p>
-<p>🔭 Currently working on a predictive modeling system for teams’ win rates in the League of Legends Champions Korea competitive league, utilizing regression methods in Quarto to describe optimal strategies in the highest level of play.</p>
-<p>✍ NFL Football, League of Legends</p>
-<p>📍 San Diego/San Luis Obispo</p>
+<section id="currently" class="level2">
+<h2 class="anchored" data-anchor-id="currently">🔭 Currently…</h2>
+<p>Working on a predictive modeling system for teams’ win rates in the League of Legends Champions Korea competitive league, utilizing regression methods in Quarto to describe optimal strategies in the highest level of play.</p>
+</section>
+<section id="interests" class="level2">
+<h2 class="anchored" data-anchor-id="interests">✍ Interests…</h2>
+<p>NFL Football, League of Legends, Clothing Design</p>
+</section>
+<section id="locations" class="level2">
+<h2 class="anchored" data-anchor-id="locations">📍 Locations…</h2>
+<p>San Diego/San Luis Obispo</p>
 
 
-</main>  
-</div>
- <!-- /main -->
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -139,6 +169,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
