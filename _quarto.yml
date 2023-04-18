@@ -13,9 +13,7 @@ website:
 
 format:
   html:
-    theme:
-      light: lux
-      dark: lux
+    theme: vapor
     css: styles.css
     toc: true
 
