@@ -1,6 +1,5 @@
 ---
 title: "Ruben Jimenez"
-image: january6mockup.png
 about:
   template: jolla
   links:

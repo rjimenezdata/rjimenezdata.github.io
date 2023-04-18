@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A small personal project utilizing regression to predict winners in the League of Legends LCK. Click here"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ruben Jimenez",
+    "section": "",
+    "text": "Hey!\nWelcome to my domain! Make yourself comfortable and allow me to introduce both myself and my projects! Feel free to connect with me via LinkedIn, GitHub, or email!"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -26,19 +40,5 @@
     "title": "About",
     "section": "📍 Locations…",
     "text": "📍 Locations…\nSan Diego/San Luis Obispo"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ruben Jimenez",
-    "section": "",
-    "text": "Hey!\nWelcome to my domain! Make yourself comfortable and allow me to introduce both myself and my projects! Feel free to connect with me via LinkedIn, GitHub, or email!"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A small personal project utilizing regression to predict winners in the League of Legends LCK. Click here"
   }
 ]
