@@ -1,3 +1,8 @@
 ---
 title: "Projects"
 ---
+
+## 🎮 LCK Modeling
+A small personal project utilizing regression to predict winners in the League of Legends LCK. [Click here](https://rjimenezdata.github.io/LCKModeling/League-of-Legends.html)
+
+![](lckmodelingpreview.png)

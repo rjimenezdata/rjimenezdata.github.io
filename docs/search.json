@@ -18,7 +18,7 @@
     "href": "about.html#interests",
     "title": "About",
     "section": "✍ Interests…",
-    "text": "✍ Interests…\nNFL Football, League of Legends, Clothing Design"
+    "text": "✍ Interests…\nDetroit Lions, League of Legends, T-Shirt Design"
   },
   {
     "objectID": "about.html#locations",
@@ -33,5 +33,12 @@
     "title": "Ruben Jimenez",
     "section": "",
     "text": "Hey!\nWelcome to my domain! Make yourself comfortable and allow me to introduce both myself and my projects! Feel free to connect with me via LinkedIn, GitHub, or email!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A small personal project utilizing regression to predict winners in the League of Legends LCK. Click here"
   }
 ]

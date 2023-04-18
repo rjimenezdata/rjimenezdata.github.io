@@ -8,7 +8,7 @@ My name is **Ruben Jimenez (he/him/his)**, and I am a Statistics undergraduate a
 Working on a predictive modeling system for teams' win rates in the League of Legends Champions Korea competitive league, utilizing regression methods in Quarto to describe optimal strategies in the highest level of play.
 
 ## ✍  Interests... 
-NFL Football, League of Legends, Clothing Design
+Detroit Lions, League of Legends, T-Shirt Design
 
 ## 📍 Locations...
 San Diego/San Luis Obispo
