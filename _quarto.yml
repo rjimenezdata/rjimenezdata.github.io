@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: Ruben Jimenez
       - href: projects.qmd
         text: Projects
 
