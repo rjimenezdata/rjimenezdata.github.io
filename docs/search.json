@@ -4,28 +4,28 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "A small personal project utilizing regression to predict winners in the League of Legends LCK. Click here"
+    "text": "A small personal project utilizing tidy data principles followed by univariate regression to predict winners in the League of Legends LCK. Click here to open in a new tab!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ruben Jimenez",
     "section": "",
-    "text": "Hey!\nWelcome to my domain! Make yourself comfortable and allow me to introduce both myself and my projects! Feel free to connect with me via LinkedIn, GitHub, or email!"
+    "text": "Howdy!\nWelcome to my domain! Make yourself comfortable and allow me to introduce both myself and my projects. Feel free to connect with me via LinkedIn, GitHub, or email!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My name is Ruben Jimenez (he/him/his), and I am a Statistics undergraduate at Cal Poly. I take great interest in mathematics, statistics, and economics, and the real-world implications behind modeling and data visualization. Come with me as I figure out how to apply my specialized knowledge to personal interests and projects."
+    "text": "My name is Ruben Jimenez (he/him/his), and I am a sophomore Statistics undergraduate at Cal Poly. I take great interest in mathematics, statistics, and economics, and the real-world implications behind modeling and data visualization. Come with me as I figure out how to apply my specialized knowledge to personal interests."
   },
   {
     "objectID": "about.html#currently",
     "href": "about.html#currently",
     "title": "About",
     "section": "🔭 Currently…",
-    "text": "🔭 Currently…\nWorking on a predictive modeling system for teams’ win rates in the League of Legends Champions Korea competitive league, utilizing regression methods in Quarto to describe optimal strategies in the highest level of play."
+    "text": "🔭 Currently…\nWorking on a predictive modeling system for teams’ win rates in the League of Legends Champions Korea competitive league, utilizing regression methods in Quarto supported by various R packages to describe optimal strategies at the highest levels of play."
   },
   {
     "objectID": "about.html#interests",
@@ -46,6 +46,6 @@
     "href": "projects.html#cal-poly-stat-club-treasurer-candidacy",
     "title": "Projects",
     "section": "📈 Cal Poly Stat Club Treasurer Candidacy",
-    "text": "📈 Cal Poly Stat Club Treasurer Candidacy\nAlready being a member of Cal Poly Stat Club, I wanted to engage better with other members while improving the quality of membership. I promise to introduce more fundraising opportunities both big and small along with transparency in fund expenditure."
+    "text": "📈 Cal Poly Stat Club Treasurer Candidacy\nAlready being a year-long member of Cal Poly Stat Club, I am driven by my desire to engage better with other members while improving membership quality. My platform promises to introduce more fundraising opportunities both big and small along with transparency in fund expenditure, among many other minor quality-of-life changes."
   }
 ]

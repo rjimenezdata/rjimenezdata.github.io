@@ -11,6 +11,6 @@ about:
       href: mailto:rjimenezanalytics@outlook.com
 ---
 
-Hey!
+Howdy!
 
-Welcome to my domain! Make yourself comfortable and allow me to introduce both [myself](about.qmd) and my [projects](projects.qmd)! Feel free to connect with me via LinkedIn, GitHub, or email!
+Welcome to my domain! Make yourself comfortable and allow me to introduce both [myself](about.qmd) and my [projects](projects.qmd). Feel free to connect with me via LinkedIn, GitHub, or email!
