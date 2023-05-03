@@ -5,4 +5,7 @@ title: "Projects"
 ## 🎮 LCK Modeling
 A small personal project utilizing regression to predict winners in the League of Legends LCK. [Click here](https://rjimenezdata.github.io/LCKModeling/League-of-Legends.html)
 
-![](lckmodelingpreview.png)
+![](https://rjimenezdata.github.io/LCKModeling/League-of-Legends.html)
+
+## 📈 Cal Poly Stat Club Treasurer Candidacy
+Already being a member of Cal Poly Stat Club, I wanted to engage better with other members while improving the quality of membership. I promise to introduce more fundraising opportunities both big and small along with transparency in fund expenditure.
