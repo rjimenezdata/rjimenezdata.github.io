@@ -1,0 +1,5 @@
+---
+title: "Resume"
+---
+
+![](here::here("resumeS23.pdf"))
