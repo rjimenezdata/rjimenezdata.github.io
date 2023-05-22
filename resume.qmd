@@ -4,4 +4,6 @@ resources:
   - "Ruben Jimenez - Intern Resume.pdf"
 ---
 
-![Check it out]("/Ruben Jimenez - Intern Resume.pdf")
+```{=html}
+<iframe width="780" height="500" src="https://github.com/rjimenezdata/rjimenezdata.github.io/blob/61e89b8fed327c08565e6ff1a0e5e272d06dcd7b/Ruben%20Jimenez%20-%20Intern%20Resume.pdf" title="Ruben Jimenez - Intern Resume"></iframe>
+```
