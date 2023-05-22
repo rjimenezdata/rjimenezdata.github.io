@@ -1,5 +1,7 @@
 ---
 title: "Resume"
+resources: 
+  - "Ruben Jimenez - Intern Resume.pdf"
 ---
 
-![Check it out](https://github.com/rjimenezdata/rjimenezdata.github.io/blob/93b4ee754662efead929e5d1809676f282aa2824/Ruben%20Jimenez%20-%20Intern%20Resume.pdf)
+![Check it out]("/Ruben Jimenez - Intern Resume.pdf")
