@@ -9,6 +9,8 @@ about:
       href: https://github.com/rjimenezdata
     - text: Email
       href: mailto:rjimenezanalytics@outlook.com
+    - text: Resume
+      href: https://github.com/rjimenezdata/rjimenezdata.github.io/blob/2b2efb7e5a7f3157e9c703e006e9c2cdaff512a7/Spring23Resume.pdf
 ---
 
 Howdy!
