@@ -4,6 +4,5 @@ format: html
 resources: "Spring23Resume.pdf"
 ---
 
+<embed src="Spring23Resume.pdf" type="application/pdf" style="width:100%;height:100vh;"/>
 
-
-<embed src="Spring23Resume.pdf" type="application/pdf"/>
