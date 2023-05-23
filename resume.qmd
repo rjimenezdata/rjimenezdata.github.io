@@ -1,4 +1,9 @@
 ---
 title: "Resume"
+format: html
+resources: "Spring23Resume.pdf"
 ---
 
+
+
+<embed src="Spring23Resume.pdf" type="application/pdf"/>
