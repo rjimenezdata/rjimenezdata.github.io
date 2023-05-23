@@ -1,9 +1,16 @@
 ---
 title: "Resume"
 resources: 
-  - "Ruben Jimenez - Intern Resume.pdf"
+  - "Spring23Resume.pdf"
 ---
 
 ```{=html}
-<iframe width="780" height="500" src="https://github.com/rjimenezdata/rjimenezdata.github.io/blob/61e89b8fed327c08565e6ff1a0e5e272d06dcd7b/Ruben%20Jimenez%20-%20Intern%20Resume.pdf" title="Ruben Jimenez - Intern Resume"></iframe>
+  <head>
+    <title>PDF Example by Object Tag</title>
+  </head>
+  <body>
+    <object data="https://drive.google.com/file/d/14RZxVtBFK415KfiaPpnT0FDwM3Pi3nKF/view?usp=sharing" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">Download</a> instead.</p>
+    </object>
+  </body>
 ```
