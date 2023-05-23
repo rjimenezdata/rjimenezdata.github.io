@@ -11,10 +11,9 @@ about:
       href: mailto:rjimenezanalytics@outlook.com
     - text: Resume
       href: https://github.com/rjimenezdata/rjimenezdata.github.io/blob/2b2efb7e5a7f3157e9c703e006e9c2cdaff512a7/Spring23Resume.pdf
-resources: "headshot.jpeg"
 ---
 
-![]("https://github.com/rjimenezdata/rjimenezdata.github.io/blob/8cf3e72ccfd3c7ad90cf324fce770876fe845cb3/docs/headshot.jpeg")
+![]("https://github.com/rjimenezdata/rjimenezdata.github.io/blob/5d8bb0d235f26fe9723b24eeecea45152ddba30b/headshot.jpeg")
 
 Howdy!
 
