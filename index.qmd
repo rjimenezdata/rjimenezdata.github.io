@@ -14,7 +14,7 @@ about:
 resources: "headshot.jpeg"
 ---
 
-![]("headshot.jpeg")
+![]("https://github.com/rjimenezdata/rjimenezdata.github.io/blob/8cf3e72ccfd3c7ad90cf324fce770876fe845cb3/docs/headshot.jpeg")
 
 Howdy!
 
