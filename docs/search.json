@@ -7,11 +7,11 @@
     "text": "A small personal project utilizing tidy data principles followed by univariate regression to predict winners in the League of Legends LCK. Click here to open in a new tab!"
   },
   {
-    "objectID": "projects.html#cal-poly-stat-club-treasurer-candidacy",
-    "href": "projects.html#cal-poly-stat-club-treasurer-candidacy",
+    "objectID": "projects.html#cal-poly-stat-club-treasurer",
+    "href": "projects.html#cal-poly-stat-club-treasurer",
     "title": "Projects",
-    "section": "📈 Cal Poly Stat Club Treasurer Candidacy",
-    "text": "📈 Cal Poly Stat Club Treasurer Candidacy\nAlready being a year-long member of Cal Poly Stat Club, I am driven by my desire to engage better with other members while improving membership quality. My platform promises to introduce more fundraising opportunities both big and small along with transparency in fund expenditure, among many other minor quality-of-life changes."
+    "section": "📈 Cal Poly Stat Club Treasurer",
+    "text": "📈 Cal Poly Stat Club Treasurer\nAlready being a two-year-long member of Cal Poly Stat Club, an official student chapter of the American Statistical Association, I was driven to run for treasurer by my desire to engage better with other members while improving membership quality. My platform promises to introduce more fundraising opportunities both big and small along with increased transparency in fund expenditure."
   },
   {
     "objectID": "index.html",
@@ -32,7 +32,7 @@
     "href": "about.html#currently",
     "title": "About",
     "section": "🔭 Currently…",
-    "text": "🔭 Currently…\nWorking on a predictive modeling system for teams’ win rates in the League of Legends Champions Korea competitive league, utilizing regression methods in Quarto supported by various R packages to describe optimal strategies at the highest levels of play."
+    "text": "🔭 Currently…\nWorking on a predictive modeling system for teams’ win rates in the League of Legends Champions Korea competitive league, utilizing regression methods in Quarto supported by various R packages to describe optimal strategies at the highest levels of play. Newly elected Cal Poly Stat Club Treasurer."
   },
   {
     "objectID": "about.html#interests",

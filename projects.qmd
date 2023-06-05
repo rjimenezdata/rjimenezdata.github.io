@@ -7,5 +7,5 @@ A small personal project utilizing tidy data principles followed by univariate r
 
 ![](https://rjimenezdata.github.io/LCKModeling/League-of-Legends.html){width=100% height="400"}
 
-## 📈 Cal Poly Stat Club Treasurer Candidacy
-Already being a year-long member of Cal Poly Stat Club, I am driven by my desire to engage better with other members while improving membership quality. My platform promises to introduce more fundraising opportunities both big and small along with transparency in fund expenditure, among many other minor quality-of-life changes.
+## 📈 Cal Poly Stat Club Treasurer
+Already being a two-year-long member of Cal Poly Stat Club, an official student chapter of the American Statistical Association, I was driven to run for treasurer by my desire to engage better with other members while improving membership quality. My platform promises to introduce more fundraising opportunities both big and small along with increased transparency in fund expenditure.
