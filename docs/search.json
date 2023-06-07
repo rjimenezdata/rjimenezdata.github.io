@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "A small personal project utilizing tidy data principles followed by univariate regression to predict winners in the League of Legends LCK. Click here to open in a new tab!"
+    "text": "A class project using Tableau to create a dashboard for the Big Tech Stock Prices dataset, courtesy of R4DS Online Learning Community’s TidyTuesday project."
   },
   {
     "objectID": "projects.html#cal-poly-stat-club-treasurer",
@@ -47,5 +47,12 @@
     "title": "About",
     "section": "📍 Locations…",
     "text": "📍 Locations…\nSan Diego/San Luis Obispo"
+  },
+  {
+    "objectID": "projects.html#lck-modeling",
+    "href": "projects.html#lck-modeling",
+    "title": "Projects",
+    "section": "🎮 LCK Modeling",
+    "text": "🎮 LCK Modeling\nA small personal project utilizing tidy data principles followed by univariate regression to predict winners in the League of Legends LCK. Click here to open in a new tab!"
   }
 ]
