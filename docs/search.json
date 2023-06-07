@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "A class project using Tableau to create a dashboard for the Big Tech Stock Prices dataset, courtesy of R4DS Online Learning Community’s TidyTuesday project.\n\n\n<tableau-viz id=“tableauViz”\nsrc=’\n\n\n’>"
+    "text": "A class project using Tableau to create a dashboard for the Big Tech Stock Prices dataset, courtesy of R4DS Online Learning Community’s TidyTuesday project."
   },
   {
     "objectID": "projects.html#cal-poly-stat-club-treasurer",
