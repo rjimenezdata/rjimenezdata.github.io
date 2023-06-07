@@ -6,9 +6,11 @@ title: "Projects"
 A class project using Tableau to create a dashboard for the [Big Tech Stock Prices dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-02-07/readme.md), courtesy of R4DS Online Learning Community's TidyTuesday project.
 
 <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+
 <tableau-viz id="tableauViz"       
-  src='https://us-west-2b.online.tableau.com/?%3Aembed=y&%3AapiID=embhost0&%3AapiInternalVersion=1.126.0&%3AapiExternalVersion=3.5.0&navType=0&navSrc=Opt&%3AdisableUrlActionsPopups=n&%3Atabs=y&%3Atoolbar=bottom&%3Adevice=default&mobile=n&%3AhideEditButton=n&%3AhideEditInDesktopButton=n&%3AsuppressDefaultEditBehavior=n&%3Ajsdebug=n#/site/emilyarobinson/views/StockDataDashboard_16861161150070/Dashboard1?:origin=card_share_link&:embed=n'>
+  src='<script type='module' src='https://us-west-2b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-west-2b.online.tableau.com/t/emilyarobinson/views/StockDataDashboard_16861161150070/Dashboard1' width='1000' height='827' hide-tabs toolbar='bottom' device='default' ></tableau-viz>'>
 </tableau-viz>
+
 
 ## 🎮 LCK Modeling
 A small personal project utilizing tidy data principles followed by univariate regression to predict winners in the League of Legends LCK. [Click here](https://rjimenezdata.github.io/LCKModeling/League-of-Legends.html) to open in a new tab! 
