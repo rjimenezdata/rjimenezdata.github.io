@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+resources: "StockDataDashboard (1).twbx"
 ---
 
 ## ⚡ Tesla Stock Data Dashboard
@@ -7,7 +8,9 @@ A class project using Tableau to create a dashboard for the [Big Tech Stock Pric
 
 <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
 
-<script type='module' src='https://us-west-2b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-west-2b.online.tableau.com/t/emilyarobinson/views/StockDataDashboard_16861161150070/Dashboard1' hide-tabs toolbar='top' device='default' ></tableau-viz>
+<tableau-viz id="tableauViz"       
+  src='StockDataDashboard (1).twbx'      
+  toolbar="top" hide-tabs>
 </tableau-viz>
 
 
