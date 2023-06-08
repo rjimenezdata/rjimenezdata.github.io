@@ -3,12 +3,6 @@ title: "Projects"
 resources: "StockDataDashboard (1).twbx"
 ---
 
-## ⚡ Tesla Stock Data Dashboard
-A class project using Tableau to create a dashboard for the [Big Tech Stock Prices dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-02-07/readme.md), courtesy of R4DS Online Learning Community's TidyTuesday project.
-
-<embed src="StockDataDashboard (1).twbx" type="script"/>
-
-
 ## 🎮 LCK Modeling
 A small personal project utilizing tidy data principles followed by univariate regression to predict winners in the League of Legends LCK. [Click here](https://rjimenezdata.github.io/LCKModeling/League-of-Legends.html) to open in a new tab! 
 
