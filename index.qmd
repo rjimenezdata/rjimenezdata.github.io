@@ -10,11 +10,11 @@ about:
     - text: Email
       href: mailto:rjimenezanalytics@outlook.com
     - text: Resume
-      href: https://rjimenezdata.github.io/Spring23Resume.pdf
+      href: https://rjimenezdata.github.io/F23Resume.pdf
 ---
 
 ![](https://github.com/rjimenezdata/rjimenezdata.github.io/blob/main/headshot.jpeg?raw=true)
 
-Howdy!
+Hi!
 
-Welcome to my domain! Make yourself comfortable and allow me to introduce both [myself](about.qmd) and my [projects](projects.qmd). Feel free to connect with me via LinkedIn, GitHub, or email!
+Welcome to my domain. Make yourself comfortable and allow me to introduce both [myself](about.qmd) and my [projects](projects.qmd). Feel free to connect with me via LinkedIn, GitHub, or email!

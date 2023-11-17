@@ -1,12 +1,13 @@
 ---
 title: "Projects"
-resources: "StockDataDashboard (1).twbx"
 ---
 
+## 🍻 Alcohol-Happiness Observational Report
+A group project from STAT 331 at Cal Poly exploring the possible association between alcohol consumption and happiness using empirical data collected from The World Happiness Report. [Click here](https://rjimenezdata.github.io/STAT331/Alcohol%20Vs%20Happiness%20Final.html) to open in a new tab! [(GitHub repository)](https://github.com/rjimenezdata/STAT331)
+
+![](https://rjimenezdata.github.io/STAT331/Alcohol%20Vs%20Happiness%20Final.html){width=100% height="400"}
+
 ## 🎮 LCK Modeling
-A small personal project utilizing tidy data principles followed by univariate regression to predict winners in the League of Legends LCK. [Click here](https://rjimenezdata.github.io/LCKModeling/League-of-Legends.html) to open in a new tab! 
+A small personal project utilizing tidy data principles followed by univariate regression to predict winners in the League of Legends LCK. [Click here](https://rjimenezdata.github.io/LCKModeling/League-of-Legends.html) to open in a new tab! [(GitHub repository)](https://github.com/rjimenezdata/LCKModeling)
 
 ![](https://rjimenezdata.github.io/LCKModeling/League-of-Legends.html){width=100% height="400"}
-
-## 📈 Cal Poly Stat Club Treasurer
-Already being a two-year-long member of Cal Poly Stat Club, an official student chapter of the American Statistical Association, I was driven to run for treasurer by my desire to engage better with other members while improving membership quality. My platform promises to introduce more fundraising opportunities both big and small along with increased transparency in fund expenditure.

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Ruben Jimenez: Statistician Extraordinaire"
+  title: "Ruben Jimenez"
   navbar:
     left:
       - href: index.qmd
