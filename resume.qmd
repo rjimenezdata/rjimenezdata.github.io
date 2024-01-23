@@ -4,5 +4,5 @@ format: html
 resources: "F23Resume.pdf"
 ---
 
-<embed src="F23Resume.pdf" type="application/pdf" style="width:100%;height:100vh;"/>
+<embed src="RJimenezW23Resume.pdf" type="application/pdf" style="width:100%;height:100vh;"/>
 
