@@ -1,7 +1,7 @@
 ---
 title: "Ruben Jimenez"
 about:
-  template: trestles
+  template: solana
   image: headshot.jpeg
   links:
     - href: https://www.linkedin.com/in/rjimenezanalytics/
