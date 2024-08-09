@@ -2,13 +2,25 @@
 title: "About"
 ---
 
-My name is **Ruben Jimenez (he/him/his)**, and I am a junior Statistics undergraduate at Cal Poly. I take great interest in mathematics, statistics, and economics, and the real-world implications behind modeling and data visualization. I built this website using Quarto both to brush up on the R skills I learned in class and to get more comfortable with `Markdown` and $\LaTeX$ syntaxes. Come with me as I figure out how to apply my specialized knowledge to personal interests.
+My name is **Ruben Jimenez (he/him/his)**, and I am a senior Statistics undergraduate at Cal Poly. I take great interest in mathematics, statistics, and finance. I built this website using Quarto both to brush up on the R skills I learned in class and to get more comfortable with `Markdown` and $\LaTeX$ syntaxes. Come with me as I figure out how to apply my specialized knowledge to personal interests.
 
 ## 🔭 Currently... 
-Seeking a summer role in the health sector as an actuarial intern, or in the financial sector as an analyst. Organizing, budgeting, and networking as Cal Poly Stat Club Treasurer.
+Seeking a summer role in the health sector as an actuarial intern, or in the financial sector as an analyst. Training, managing, and corresponding as Cal Poly Stat Club Co-President. Grading in statistics courses. Studying for SOA Exam FM.
 
-## ✍  Interests... 
-Detroit Lions, League of Legends, American Horror Story, T-Shirt Design, Japanese Streetwear, Quarto, Collegiate Wrestling, Automobiles
+## ✍  Interests & Hobbies... 
+Define $I = \{i: i \text{ is a personal interest} \}$. Then 
+  
+  
+$$
+I = \{\text{American football, dystopian tv shows, MOBA gaming, archive fashion, cars, ...} \}
+$$
+
+  
+Similarly, let $H = \{h : h \text{ is a hobby} \}$. Then
+
+$$
+H = \{\text{League of Legends, working out, discovering new music, going for drives}, ... \}
+$$
 
 ## 📍 Locations...
 San Diego/San Luis Obispo

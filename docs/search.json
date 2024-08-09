@@ -25,14 +25,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My name is Ruben Jimenez (he/him/his), and I am a junior Statistics undergraduate at Cal Poly. I take great interest in mathematics, statistics, and economics, and the real-world implications behind modeling and data visualization. I built this website using Quarto both to brush up on the R skills I learned in class and to get more comfortable with Markdown and \\(\\LaTeX\\) syntaxes. Come with me as I figure out how to apply my specialized knowledge to personal interests."
+    "text": "My name is Ruben Jimenez (he/him/his), and I am a senior Statistics undergraduate at Cal Poly. I take great interest in mathematics, statistics, and finance. I built this website using Quarto both to brush up on the R skills I learned in class and to get more comfortable with Markdown and \\(\\LaTeX\\) syntaxes. Come with me as I figure out how to apply my specialized knowledge to personal interests."
   },
   {
     "objectID": "about.html#currently",
     "href": "about.html#currently",
     "title": "About",
     "section": "🔭 Currently…",
-    "text": "🔭 Currently…\nSeeking a summer role in the health sector as an actuarial intern, or in the financial sector as an analyst. Organizing, budgeting, and networking as Cal Poly Stat Club Treasurer."
+    "text": "🔭 Currently…\nSeeking a summer role in the health sector as an actuarial intern, or in the financial sector as an analyst. Training, managing, and corresponding as Cal Poly Stat Club Co-President. Grading in statistics courses. Studying for SOA Exam FM."
   },
   {
     "objectID": "about.html#interests",
@@ -54,5 +54,12 @@
     "title": "Projects",
     "section": "🎮 LCK Modeling",
     "text": "🎮 LCK Modeling\nA small personal project utilizing tidy data principles followed by univariate regression to predict winners in the League of Legends LCK. Click here to open in a new tab! (GitHub repository)"
+  },
+  {
+    "objectID": "about.html#interests-hobbies",
+    "href": "about.html#interests-hobbies",
+    "title": "About",
+    "section": "✍ Interests & Hobbies…",
+    "text": "✍ Interests & Hobbies…\nDefine \\(I = \\{i: i \\text{ is a personal interest} \\}\\). Then\n\\[\nI = \\{\\text{American football, dystopian tv shows, MOBA gaming, archive fashion, cars, ...} \\}\n\\]\nSimilarly, let \\(H = \\{h : h \\text{ is a hobby} \\}\\). Then\n\\[\nH = \\{\\text{League of Legends, working out, discovering new music, going for drives}, ... \\}\n\\]"
   }
 ]

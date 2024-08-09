@@ -1,16 +1,14 @@
 ---
 title: "Ruben Jimenez"
 about:
-  template: jolla
+  template: trestles
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/rjimenezanalytics/
-    - text: GitHub
-      href: https://github.com/rjimenezdata
-    - text: Email
-      href: mailto:rjimenezanalytics@outlook.com
-    - text: Resume
-      href: https://rjimenezdata.github.io/F23Resume.pdf
+    - href: https://www.linkedin.com/in/rjimenezanalytics/
+      icon: "linkedin"
+    - href: https://github.com/rjimenezdata
+      icon: "github"
+    - href: mailto:rjimenezanalytics@outlook.com
+      icon: "envelope-fill"
 ---
 
 ![](https://github.com/rjimenezdata/rjimenezdata.github.io/blob/main/headshot.jpeg?raw=true)
