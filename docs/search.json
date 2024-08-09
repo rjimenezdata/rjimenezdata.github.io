@@ -61,5 +61,12 @@
     "title": "About",
     "section": "✍ Interests & Hobbies…",
     "text": "✍ Interests & Hobbies…\nDefine \\(I = \\{i: i \\text{ is a personal interest} \\}\\). Then\n\\[\nI = \\{\\text{American football, dystopian tv shows, MOBA gaming, archive fashion, cars, ...} \\}\n\\]\nSimilarly, let \\(H = \\{h : h \\text{ is a hobby} \\}\\). Then\n\\[\nH = \\{\\text{League of Legends, working out, discovering new music, going for drives}, ... \\}\n\\]"
+  },
+  {
+    "objectID": "projects.html#investigating-slingshot-trajectory-and-pull-distance",
+    "href": "projects.html#investigating-slingshot-trajectory-and-pull-distance",
+    "title": "Projects",
+    "section": "☄️ Investigating Slingshot Trajectory and Pull Distance",
+    "text": "☄️ Investigating Slingshot Trajectory and Pull Distance\nA group project from STAT 423 at Cal Poly which uses response surface methodology to determine optimal launch conditions for maximizing flight distance of a small projectile from a slingshot. Click here to open in a new tab! (GitHub repository)"
   }
 ]

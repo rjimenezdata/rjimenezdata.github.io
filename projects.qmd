@@ -7,6 +7,11 @@ A group project from STAT 331 at Cal Poly exploring the possible association bet
 
 ![](https://rjimenezdata.github.io/STAT331/Alcohol%20Vs%20Happiness%20Final.html){width=100% height="400"}
 
+## ☄️ Investigating Slingshot Trajectory and Pull Distance
+A group project from STAT 423 at Cal Poly which uses response surface methodology to determine optimal launch conditions for maximizing flight distance of a small projectile from a slingshot. [Click here](https://rjimenezdata.github.io/STAT423/STAT423FinalProject-jimenez-sundaram-motter-guru.pdf) to open in a new tab! [(GitHub repository)](https://github.com/rjimenezdata/STAT423)
+
+![](https://rjimenezdata.github.io/STAT423/STAT423FinalProject-jimenez-sundaram-motter-guru.pdf){width=100% height="400"}
+
 ## 🎮 LCK Modeling
 A small personal project utilizing tidy data principles followed by univariate regression to predict winners in the League of Legends LCK. [Click here](https://rjimenezdata.github.io/LCKModeling/League-of-Legends.html) to open in a new tab! [(GitHub repository)](https://github.com/rjimenezdata/LCKModeling)
 
