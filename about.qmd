@@ -5,7 +5,7 @@ title: "About"
 My name is **Ruben Jimenez (he/him/his)**, and I am a senior Statistics undergraduate at Cal Poly. I take great interest in mathematics, statistics, and finance. I built this website using Quarto both to brush up on the R skills I learned in class and to get more comfortable with `Markdown` and $\LaTeX$ syntaxes. Come with me as I figure out how to apply my specialized knowledge to personal interests.
 
 ## 🔭 Currently... 
-Seeking a summer role in the health sector as an actuarial intern, or in the financial sector as an analyst. Training, managing, and corresponding as Cal Poly Stat Club Co-President. Grading in statistics courses. Studying for SOA Exam FM.
+Seeking an internship in the finance or insurance sectors. Training, managing, and corresponding as Cal Poly Stat Club Co-President. Grading in statistics courses. Studying for SOA Exam FM.
 
 ## ✍  Interests & Hobbies... 
 Define $I = \{i: i \text{ is a personal interest} \}$. Then 

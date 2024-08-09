@@ -2,6 +2,8 @@
 title: "Ruben Jimenez"
 about:
   template: trestles
+  image: headshot.jpg
+  image-shape: round
   links:
     - href: https://www.linkedin.com/in/rjimenezanalytics/
       icon: "linkedin"
@@ -10,8 +12,6 @@ about:
     - href: mailto:rjimenezanalytics@outlook.com
       icon: "envelope-fill"
 ---
-
-![](https://github.com/rjimenezdata/rjimenezdata.github.io/blob/main/headshot.jpeg?raw=true)
 
 Hi!
 
