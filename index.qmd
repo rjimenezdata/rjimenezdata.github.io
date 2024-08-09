@@ -3,7 +3,6 @@ title: "Ruben Jimenez"
 about:
   template: trestles
   image: headshot.jpeg
-  image-shape: rounded
   links:
     - href: https://www.linkedin.com/in/rjimenezanalytics/
       icon: "linkedin"
