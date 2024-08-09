@@ -2,8 +2,8 @@
 title: "Ruben Jimenez"
 about:
   template: trestles
-  image: headshot.jpg
-  image-shape: round
+  image: headshot.jpeg
+  image-shape: rounded
   links:
     - href: https://www.linkedin.com/in/rjimenezanalytics/
       icon: "linkedin"
@@ -13,6 +13,6 @@ about:
       icon: "envelope-fill"
 ---
 
-Hi!
+### Hi!
 
 Welcome to my domain. Make yourself comfortable and allow me to introduce both [myself](about.qmd) and my [projects](projects.qmd). Feel free to connect with me via LinkedIn, GitHub, or email!
