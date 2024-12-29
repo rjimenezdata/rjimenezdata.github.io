@@ -6,7 +6,7 @@ resources: "poster.pptx.pdf"
 ## 🩺 Diabetes and Pancreas Transplant Waitlist Outcomes
 A collaborative project from STAT 551 at Cal Poly exploring statistical learning models to predict whether someone has diabetes or not from survey questions, as well as
 mortality for patients on pancreas transplant waitlists from redacted clinical data.
-<embed src="poster.pptx.pdf" type="application/pdf" style="width:100%;height:100vh;"/>
+<embed src="poster.pptx.pdf" type="application/pdf" style="width:100%;height:80vh;"/>
 
 ## 🍻 Alcohol-Happiness Observational Report
 A collaborative project from STAT 331 at Cal Poly exploring the possible association between alcohol consumption and happiness using empirical data collected from The World Happiness Report. [Click here](https://rjimenezdata.github.io/STAT331/Alcohol%20Vs%20Happiness%20Final.html) to open in a new tab! [(GitHub repository)](https://github.com/rjimenezdata/STAT331)
