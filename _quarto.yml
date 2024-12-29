@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: litera
+    theme: spacelab
     css: styles.css
     toc: true
 
