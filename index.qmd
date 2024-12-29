@@ -10,4 +10,16 @@ about:
       icon: "github"
     - href: mailto:rjimenezanalytics@outlook.com
       icon: "envelope-fill"
+format:
+  html:
+    toc: false
 ---
+## Education
+
+**California Polytechnic State University** | San Luis Obispo, CA
+
+B.S. in Statistics | Sept. 2021 - present
+
+## Experience
+
+**Cal Poly Statistics Department** | Instructional Student Assistant | Dec. 2023 - Dec. 2024

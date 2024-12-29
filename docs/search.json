@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Ruben Jimenez",
     "section": "",
-    "text": "Hi!\nWelcome to my domain. Make yourself comfortable and allow me to introduce both myself and my projects. Feel free to connect with me via LinkedIn, GitHub, or email!"
+    "text": "California Polytechnic State University | San Luis Obispo, CA\nB.S. in Statistics | Sept. 2021 - present"
   },
   {
     "objectID": "about.html",
@@ -60,7 +60,7 @@
     "href": "about.html#interests-hobbies",
     "title": "About",
     "section": "✍ Interests & Hobbies…",
-    "text": "✍ Interests & Hobbies…\nWhen I’m not pushing myself to learn more in statistics, I enjoy watching the Detroit Lions, playing multiplayer video games (Marvel Rivals as of late), learning about cars, researching fashion, hiking, cooking, working out, and bowling."
+    "text": "✍ Interests & Hobbies…\nWhen I’m not pushing myself to learn more in statistics, I enjoy watching the Detroit Lions, playing multiplayer video games (Marvel Rivals as of late), learning about cars, researching fashion, hiking, cooking, weightlifting, and bowling."
   },
   {
     "objectID": "projects.html#investigating-slingshot-trajectory-and-pull-distance",
@@ -82,5 +82,19 @@
     "title": "Projects",
     "section": "",
     "text": "A collaborative project from STAT 551 at Cal Poly exploring statistical learning models to predict whether someone has diabetes or not from survey questions, as well as mortality for patients on pancreas transplant waitlists from redacted clinical data."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ruben Jimenez",
+    "section": "",
+    "text": "California Polytechnic State University | San Luis Obispo, CA\nB.S. in Statistics | Sept. 2021 - present"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Ruben Jimenez",
+    "section": "Experience",
+    "text": "Experience\nCal Poly Statistics Department | Instructional Student Assistant | Dec. 2023 - Dec. 2024"
   }
 ]
