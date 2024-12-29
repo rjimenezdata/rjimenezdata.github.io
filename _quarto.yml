@@ -6,6 +6,7 @@ website:
   title: "Ruben Jimenez"
   navbar:
     background: dark
+    style: inverse
     left:
       - href: index.qmd
         text: Home
