@@ -6,6 +6,7 @@ resources: "poster.pptx.pdf"
 ## 🩺 Diabetes and Pancreas Transplant Waitlist Outcomes
 A collaborative project from STAT 551 at Cal Poly exploring statistical learning models to predict whether someone has diabetes or not from survey questions, as well as
 mortality for patients on pancreas transplant waitlists from redacted clinical data.
+
 <embed src="poster.pptx.pdf" type="application/pdf" style="width:100%;height:50vh;"/>
 
 ## 🍻 Alcohol-Happiness Observational Report
