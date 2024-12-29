@@ -1,5 +1,8 @@
 ---
 title: "About"
+format:
+  html:
+    toc: false
 ---
 
 My name is **Ruben Jimenez (he/him/his)**, and I am a senior Statistics undergraduate at Cal Poly San Luis Obispo. I take great interest in statistics, computer science, and finance. I built this website using Quarto both to brush up on the R skills I learned in class and to get more comfortable with `Markdown` and $\LaTeX$ syntaxes. Content found here may not reflect current happenings.
