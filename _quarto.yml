@@ -5,6 +5,7 @@ project:
 website:
   title: "Ruben Jimenez"
   navbar:
+    background: dark
     left:
       - href: index.qmd
         text: Home
