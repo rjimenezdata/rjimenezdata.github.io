@@ -1,8 +1,8 @@
 ---
 title: "Resume"
 format: html
-resources: "RJimenezSp24Resume.pdf"
+resources: "RJimenezF24Resume.pdf"
 ---
 
-<embed src="RJimenezSp24Resume.pdf" type="application/pdf" style="width:100%;height:100vh;"/>
+<embed src="RJimenezF24Resume.pdf" type="application/pdf" style="width:100%;height:100vh;"/>
 
