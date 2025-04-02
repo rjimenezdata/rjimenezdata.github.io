@@ -3,9 +3,13 @@ title: "Projects"
 resources: "poster.pptx.pdf"
 ---
 
-## 🩺 Diabetes and Pancreas Transplant Waitlist Outcomes
-A collaborative project from STAT 551 at Cal Poly exploring statistical learning models to predict whether someone has diabetes or not from survey questions, as well as
-mortality for patients on pancreas transplant waitlists from redacted clinical data.
+## 💰 UltraCondor ETF Financial Product Proposal
+A collaborative project constructing & presenting a financial product tailored specifically to CalPERS’ investment principles. Achieved 15% higher annualized monthly returns than market average (SPY) during backtesting.
+
+<embed src="UltraCondor.pdf" type="application/pdf" style="width:100%;height:50vh;"/>
+
+## 🩺 Diabetes and Pancreas Transplant Waitlist Mortality Prediction
+A collaborative project exploring statistical learning models to predict whether someone has diabetes or not from survey questions, as well as mortality for patients on pancreas transplant waitlists from partially redacted clinical data. Classified 86% of true diabetes patients and predicted patient mortality with 80% accuracy.
 
 <embed src="poster.pptx.pdf" type="application/pdf" style="width:100%;height:50vh;"/>
 
