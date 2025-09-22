@@ -5,10 +5,10 @@ format:
     toc: false
 ---
 
-My name is **Ruben Jimenez (he/him/his)**, and I am a senior Statistics undergraduate at Cal Poly San Luis Obispo. I take great interest in statistics, computer science, finance, and sports. I built this website using Quarto both to brush up on the R skills I learned in class and to get more comfortable with `Markdown` and $\LaTeX$ syntaxes. Content found here may not reflect current happenings.
+My name is **Ruben Jimenez (he/him/his)**, and I am a Master of Statistics candidate at Cal Poly San Luis Obispo. I take great interest in statistics, computer science, finance, and sports. I built this website using Quarto both to brush up on the R skills I learned in class and to get more comfortable with `Markdown` and $\LaTeX$ syntaxes. Content found here may not reflect current happenings.
 
 ## 🔭 Currently... 
-Seeking an internship in an actuarial role. Training, managing, and corresponding as Cal Poly Stat Club Co-President. Finishing my last quarter of undergraduate studies. Studying for SOA Exam FM. 
+Seeking an internship in an actuarial role. Preparing for a long year of grad school. Studying for SOA Exam FM. 
 
 ## ✍  Interests & Hobbies... 
 When I'm not pushing myself to learn more in statistics, I enjoy watching the Detroit Lions, playing video games (The Binding of Isaac: Repentance+), learning about cars, researching fashion, hiking, cooking, weightlifting, and bowling.
