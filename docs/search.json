@@ -18,21 +18,21 @@
     "href": "index.html",
     "title": "Ruben Jimenez",
     "section": "",
-    "text": "California Polytechnic State University | San Luis Obispo, CA\nB.S. in Statistics | Sept. 2021 - Present\nM.S. in Statistics | Incoming"
+    "text": "California Polytechnic State University | San Luis Obispo, CA\nB.S. in Statistics | Sept. 2021 - June 2025\nM.S. in Statistics | Sept. 2025 - Expected 2026"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My name is Ruben Jimenez (he/him/his), and I am a senior Statistics undergraduate at Cal Poly San Luis Obispo. I take great interest in statistics, computer science, finance, and sports. I built this website using Quarto both to brush up on the R skills I learned in class and to get more comfortable with Markdown and \\(\\LaTeX\\) syntaxes. Content found here may not reflect current happenings."
+    "text": "My name is Ruben Jimenez (he/him/his), and I am a Master of Statistics candidate at Cal Poly San Luis Obispo. I take great interest in statistics, computer science, finance, and sports. I built this website using Quarto both to brush up on the R skills I learned in class and to get more comfortable with Markdown and \\(\\LaTeX\\) syntaxes. Content found here may not reflect current happenings."
   },
   {
     "objectID": "about.html#currently",
     "href": "about.html#currently",
     "title": "About",
     "section": "🔭 Currently…",
-    "text": "🔭 Currently…\nSeeking an internship in an actuarial role. Training, managing, and corresponding as Cal Poly Stat Club Co-President. Finishing my last quarter of undergraduate studies. Studying for SOA Exam FM."
+    "text": "🔭 Currently…\nSeeking an internship in an actuarial role. Preparing for a long year of grad school. Studying for SOA Exam FM."
   },
   {
     "objectID": "about.html#interests",
@@ -88,7 +88,7 @@
     "href": "index.html#education",
     "title": "Ruben Jimenez",
     "section": "",
-    "text": "California Polytechnic State University | San Luis Obispo, CA\nB.S. in Statistics | Sept. 2021 - present"
+    "text": "California Polytechnic State University | San Luis Obispo, CA\nB.S. in Statistics | Sept. 2021 - June 2025\nM.S. in Statistics | Sept. 2025 - Expected 2026"
   },
   {
     "objectID": "index.html#experience",
@@ -96,5 +96,19 @@
     "title": "Ruben Jimenez",
     "section": "Experience",
     "text": "Experience\nCal Poly Experience Industry Management Department | Research Assistant | Dec. 2024 - Feb. 2025\nCal Poly Statistics Department | Instructional Student Assistant | Dec. 2023 - Dec. 2024"
+  },
+  {
+    "objectID": "projects.html#ultracondor-etf-financial-product-proposal",
+    "href": "projects.html#ultracondor-etf-financial-product-proposal",
+    "title": "Projects",
+    "section": "",
+    "text": "A collaborative project constructing & presenting a financial product tailored specifically to CalPERS’ investment principles. Achieved 15% higher annualized monthly returns than market average (SPY) during backtesting."
+  },
+  {
+    "objectID": "projects.html#diabetes-and-pancreas-transplant-waitlist-mortality-prediction",
+    "href": "projects.html#diabetes-and-pancreas-transplant-waitlist-mortality-prediction",
+    "title": "Projects",
+    "section": "🩺 Diabetes and Pancreas Transplant Waitlist Mortality Prediction",
+    "text": "🩺 Diabetes and Pancreas Transplant Waitlist Mortality Prediction\nA collaborative project exploring statistical learning models to predict whether someone has diabetes or not from survey questions, as well as mortality for patients on pancreas transplant waitlists from partially redacted clinical data. Classified 86% of true diabetes patients and predicted patient mortality with 80% accuracy."
   }
 ]
