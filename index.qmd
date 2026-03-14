@@ -2,7 +2,7 @@
 title: "Ruben Jimenez"
 about:
   template: solana
-  image: IMG_9150.jpeg
+  image: IMG_9150.jpg
   links:
     - href: https://www.linkedin.com/in/rjimenezanalytics/
       icon: "linkedin"
