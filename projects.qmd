@@ -3,18 +3,24 @@ title: "Projects"
 resources: "poster.pptx.pdf"
 ---
 
+## 🏢 Corporate Migration in the Financial Industry: Where to Next?
+DataFest 2025 Best Visualization winning presentation. Used corporate real estate records to assess migration patterns in the financial industry and presented via slide deck to a panel of judges and peers. Identified Nashville, Tennessee as a top emerging market.
+
+<embed src="DataFest25.pdf" type="application/pdf" style="width:100%;height:50vh;"/>
+
+
 ## 💰 UltraCondor ETF Financial Product Proposal
-A collaborative project constructing & presenting a financial product tailored specifically to CalPERS’ investment principles. Achieved 15% higher annualized monthly returns than market average (SPY) during backtesting.
+Constructed & presented a financial product tailored specifically to CalPERS’ investment principles. Achieved 15% higher annualized monthly returns than market average (SPY) during backtesting.
 
 <embed src="UltraCondor.pdf" type="application/pdf" style="width:100%;height:50vh;"/>
 
 ## 🩺 Diabetes and Pancreas Transplant Waitlist Mortality Prediction
-A collaborative project exploring statistical learning models to predict whether someone has diabetes or not from survey questions, as well as mortality for patients on pancreas transplant waitlists from partially redacted clinical data. Classified 86% of true diabetes patients and predicted patient mortality with 80% accuracy.
+Explored statistical learning models to predict whether someone has diabetes or not from survey questions, as well as mortality for patients on pancreas transplant waitlists from partially redacted clinical data. Classified 86% of true diabetes patients and predicted patient mortality with 80% accuracy.
 
 <embed src="poster.pptx.pdf" type="application/pdf" style="width:100%;height:50vh;"/>
 
 ## 🍻 Alcohol-Happiness Observational Report
-A collaborative project from STAT 331 at Cal Poly exploring the possible association between alcohol consumption and happiness using empirical data collected from The World Happiness Report. [Click here](https://rjimenezdata.github.io/STAT331/Alcohol%20Vs%20Happiness%20Final.html) to open in a new tab! [(GitHub repository)](https://github.com/rjimenezdata/STAT331)
+Explored the possible association between alcohol consumption and happiness using empirical data collected from The World Happiness Report. [Click here](https://rjimenezdata.github.io/STAT331/Alcohol%20Vs%20Happiness%20Final.html) to open in a new tab! [(GitHub repository)](https://github.com/rjimenezdata/STAT331)
 
 ![](https://rjimenezdata.github.io/STAT331/Alcohol%20Vs%20Happiness%20Final.html){width=100% height="400"}
 
