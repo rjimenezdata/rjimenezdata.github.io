@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "A collaborative project constructing & presenting a financial product tailored specifically to CalPERS’ investment principles. Achieved 15% higher annualized monthly returns than market average (SPY) during backtesting."
+    "text": "DataFest 2025 Best Visualization winning presentation. Used corporate real estate records to assess migration patterns in the financial industry and presented via slide deck to a panel of judges and peers. Identified Nashville, Tennessee as a top emerging market."
   },
   {
     "objectID": "projects.html#cal-poly-stat-club-treasurer",
@@ -74,7 +74,7 @@
     "href": "projects.html#alcohol-happiness-observational-report",
     "title": "Projects",
     "section": "🍻 Alcohol-Happiness Observational Report",
-    "text": "🍻 Alcohol-Happiness Observational Report\nA collaborative project from STAT 331 at Cal Poly exploring the possible association between alcohol consumption and happiness using empirical data collected from The World Happiness Report. Click here to open in a new tab! (GitHub repository)"
+    "text": "🍻 Alcohol-Happiness Observational Report\nExplored the possible association between alcohol consumption and happiness using empirical data collected from The World Happiness Report. Click here to open in a new tab! (GitHub repository)"
   },
   {
     "objectID": "projects.html#diabetes-and-pancreas-transplant-waitlist-outcomes",
@@ -101,14 +101,21 @@
     "objectID": "projects.html#ultracondor-etf-financial-product-proposal",
     "href": "projects.html#ultracondor-etf-financial-product-proposal",
     "title": "Projects",
-    "section": "",
-    "text": "A collaborative project constructing & presenting a financial product tailored specifically to CalPERS’ investment principles. Achieved 15% higher annualized monthly returns than market average (SPY) during backtesting."
+    "section": "💰 UltraCondor ETF Financial Product Proposal",
+    "text": "💰 UltraCondor ETF Financial Product Proposal\nConstructed & presented a financial product tailored specifically to CalPERS’ investment principles. Achieved 15% higher annualized monthly returns than market average (SPY) during backtesting."
   },
   {
     "objectID": "projects.html#diabetes-and-pancreas-transplant-waitlist-mortality-prediction",
     "href": "projects.html#diabetes-and-pancreas-transplant-waitlist-mortality-prediction",
     "title": "Projects",
     "section": "🩺 Diabetes and Pancreas Transplant Waitlist Mortality Prediction",
-    "text": "🩺 Diabetes and Pancreas Transplant Waitlist Mortality Prediction\nA collaborative project exploring statistical learning models to predict whether someone has diabetes or not from survey questions, as well as mortality for patients on pancreas transplant waitlists from partially redacted clinical data. Classified 86% of true diabetes patients and predicted patient mortality with 80% accuracy."
+    "text": "🩺 Diabetes and Pancreas Transplant Waitlist Mortality Prediction\nExplored statistical learning models to predict whether someone has diabetes or not from survey questions, as well as mortality for patients on pancreas transplant waitlists from partially redacted clinical data. Classified 86% of true diabetes patients and predicted patient mortality with 80% accuracy."
+  },
+  {
+    "objectID": "projects.html#corporate-migration-in-the-financial-industry-where-to-next",
+    "href": "projects.html#corporate-migration-in-the-financial-industry-where-to-next",
+    "title": "Projects",
+    "section": "",
+    "text": "DataFest 2025 Best Visualization winning presentation. Used corporate real estate records to assess migration patterns in the financial industry and presented via slide deck to a panel of judges and peers. Identified Nashville, Tennessee as a top emerging market."
   }
 ]
