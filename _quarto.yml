@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Ruben Jimenez"
+  google-analytics: "G-VQ5STHRLXY"
   navbar:
     left:
       - href: index.qmd
