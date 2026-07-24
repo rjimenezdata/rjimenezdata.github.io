@@ -5,7 +5,7 @@ project:
 website:
   title: "Ruben Jimenez"
   google-analytics: "G-VQ5STHRLXY"
-  site-url: "https://rubenjimenez.github.io/"
+  site-url: "https://rjimenezdata.github.io/"
   navbar:
     left:
       - href: index.qmd
